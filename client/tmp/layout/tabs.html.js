@@ -1,0 +1,1 @@
+!function(n){try{n=angular.module("convention")}catch(t){n=angular.module("convention",[])}n.run(["$templateCache",function(n){n.put("js/layout/tabs.html","<div>\n  Hewllo\n</div>")}])}();
